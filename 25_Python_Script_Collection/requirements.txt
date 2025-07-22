@@ -1,8 +1,0 @@
-streamlit
-speechrecognition
-pyttsx3
-translate
-qrcode
-keyboard
-customtkinter
-pyutogui
