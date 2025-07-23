@@ -7,3 +7,4 @@ keyboard
 customtkinter
 pyautogui
 textblob
+gtts
