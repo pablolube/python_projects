@@ -6,3 +6,4 @@ qrcode
 keyboard
 customtkinter
 pyautogui
+textblob
